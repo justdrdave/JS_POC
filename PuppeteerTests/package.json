@@ -1,0 +1,21 @@
+{
+  "name": "PuppeteerTests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "dependencies": {
+    "cucumber": "^4.2.1",
+    "cucumber-html-reporter": "^4.0.2",
+    "mocha": "^5.2.0",
+    "chai": "^4.1.2",
+    "jsonfile": "^2.2.3",
+    "puppeteer": "^1.4.0"
+  },
+  "scripts": {
+    "test": "cucumber-js features/ -f json:report/cucumber_report.json; node html_report.js",
+    "construction": "cucumber-js features/ -f json:report/cucumber_report.json --tags @construction; node html_report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

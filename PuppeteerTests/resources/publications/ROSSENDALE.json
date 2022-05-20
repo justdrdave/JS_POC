@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "RossendaleFreePress",
+    "tag": "RossendaleFreePress",
+    "id": "7",
+    "primaryColour": "rgba(0, 101, 170, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "2961",
+    "HOME": "2792",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "2812",
+    "AUTHORS": "2865"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.rossendalefreepress.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.rossendalefreepress.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.rossendalefreepress.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.rossendalefreepress.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.rossendalefreepress.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.rossendalefreepress.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.rossendalefreepress.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.rossendalefreepress.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-si.rossendalefreepress.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.rossendalefreepress.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.rossendalefreepress.co.uk:8080/"
+    }
+  }
+}

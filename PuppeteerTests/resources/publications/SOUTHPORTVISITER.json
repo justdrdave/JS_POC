@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "SouthportVisiter",
+    "tag": "southportvisiter",
+    "id": "40",
+    "selfParentTag": "classification/tag:southportvisiter@trinitymirror.com,2013",
+    "primaryColour": "rgba(0, 67, 141, 1)",
+    "skimlinksID": "",
+    "competition": ""
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "25789",
+    "HOME": "25733",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "25769",
+    "AUTHORS": "25792",
+    "SEARCH": "25811"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.southportvisiter.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.southportvisiter.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.southportvisiter.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.southportvisiter.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.southportvisiter.co.uk/",
+      "CMS": "http://reg-cms1a.southportvisiter.co.uk:8080/"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.southportvisiter.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.southportvisiter.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.southportvisiter.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-si.southportvisiter.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.southportvisiter.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.southportvisiter.co.uk:8080/"
+    }
+  }    
+}

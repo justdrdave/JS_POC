@@ -1,0 +1,65 @@
+{
+  "PublicationProperties": {
+    "type": "nationals",
+    "publicationName": "irishmirror",
+    "tag": "Conor Mcgregor",
+    "id": "6",
+    "selfParentTag": "classification/tag:irishmirror@trinitymirror.com,2013",
+    "primaryColour": "rgba(233, 14, 14, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "6190",
+    "HOME": "5988",
+    "COMMUNITYTEST": "6122",
+    "SPORTFOOTBALL": "6016",
+    "AUTHORS": "6092",
+    "SEARCH": "5991"
+  },
+  "SiteAdmin": {
+    "id": "16",
+    "name": "irishmirror Administrator",
+    "user": "irishmirror_admin"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://nat-dev-pres-bertha.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-bertha.irishmirror.ie:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://nat-dev-pres-stable.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-stable.irishmirror.ie:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.irishmirror.ie/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.irishmirror.ie/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.irishmirror.ie/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://nat-dev-pres-vulcan.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-vulcan.irishmirror.ie:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://nat-dev-pres-shine.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-shine.irishmirror.ie:8080/"
+    },
+    "ZION": {
+      "PRES": "http://nat-dev-pres-zion.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-zion.irishmirror.ie:8080/"
+    },
+    "SI": {
+      "PRES": "http://nat-dev-pres-si.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-si.irishmirror.ie:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://nat-dev-pres-crispin.irishmirror.ie/",
+      "CMS": "http://nat-dev-cms-crispin.irishmirror.ie:8080/"
+    }
+  }    
+}

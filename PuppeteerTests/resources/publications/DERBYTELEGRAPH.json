@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "derby telegraph",
+    "tag": "Derby Telegraph",
+    "siteName": "derbytelegraph",
+    "skimlinksID": "",
+    "id": "12",
+    "selfParentTag": "classification/tag:derbytelegraph@trinitymirror.com,2016",
+    "primaryColour": "rgba(7, 6, 87, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "388",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "855",
+    "AUTHORS": "872",
+    "SEARCH": "883"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.derbytelegraph.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.derbytelegraph.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.derbytelegraph.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.derbytelegraph.co.uk/",
+      "CMS": "http://ron-cms2.derbytelegraph.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.derbytelegraph.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.derbytelegraph.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

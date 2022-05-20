@@ -1,0 +1,73 @@
+{
+  "PublicationProperties": {
+    "type": "nationals",
+    "publicationName": "businessInsider",
+    "tag": "Business Insider",
+    "siteName": "businessInsider",
+    "skimlinksID": "1526515",
+    "id": "10",
+    "selfParentTag": "classification/tag:businessInsider@trinitymirror.com,2016",
+    "primaryColour": "rgba(224, 224, 224, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "24341",
+    "HOME": "24093",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "N/A",
+    "AUTHORS": "598",
+    "SEARCH": "24483"
+  },
+  "SiteAdmin": {
+    "id": "35221",
+    "name": "businessInsider Administrator",
+    "user": "businessInsider_admin"
+  },
+  "AuthorWithImage": {
+    "id": "163",
+    "name": "Andrew Penman",
+    "user": "andrew-penman",
+    "profileID": "159234"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "http://nat-dev-pres-bertha.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-bertha.insider.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "http://nat-dev-pres-stable.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-stable.insider.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.insider.co.uk/",
+      "CMS": "http://cms2a.insider.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.insider.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.insider.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://nat-dev-pres-vulcan.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-vulcan.insider.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://nat-dev-pres-shine.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-shine.insider.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://nat-dev-pres-zion.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-zion.insider.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://nat-dev-pres-si.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-si.insider.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://nat-dev-pres-crispin.insider.co.uk/",
+      "CMS": "http://nat-dev-cms-crispin.insider.co.uk:8080/"
+    }
+  }
+}

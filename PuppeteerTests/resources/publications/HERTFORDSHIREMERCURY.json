@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "hertfordshire mercury",
+    "tag": "Hertfordshire Mercury",
+    "siteName": "hertfordshiremercury",
+    "skimlinksID": "",
+    "id": "21",
+    "selfParentTag": "classification/tag:hertfordshiremercury@trinitymirror.com,2016",
+    "primaryColour": "rgba(0, 106, 190, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "1846",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "1858",
+    "AUTHORS": "1873",
+    "SEARCH": "1885"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.hertfordshiremercury.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.hertfordshiremercury.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.hertfordshiremercury.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.hertfordshiremercury.co.uk/",
+      "CMS": "http://ron-cms2.hertfordshiremercury.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.hertfordshiremercury.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.hertfordshiremercury.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

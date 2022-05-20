@@ -1,0 +1,61 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "chroniclelive",
+    "tag": "Sam Lavery",
+    "id": "6",
+    "selfParentTag": "",
+    "skimlinksID": "",
+    "primaryColour": "rgba(0, 101, 179, 1)",
+    "competition": "10"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "2511",
+    "HOME": "2317",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "2335",
+    "AUTHORS": "2412"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.chroniclelive.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.chroniclelive.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.chroniclelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.chroniclelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.chroniclelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.chroniclelive.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.chroniclelive.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.chroniclelive.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-si.chroniclelive.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.chroniclelive.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.chroniclelive.co.uk:8080/"
+    }
+  }
+}

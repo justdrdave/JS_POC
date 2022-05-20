@@ -1,0 +1,73 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "manchester",
+    "tag": "Manchester Evening News",
+    "siteName": "manchester evening news",
+    "skimlinksID": "1528180",
+    "id": "2",
+    "selfParentTag": "classification/tag:manchester@trinitymirror.com,2012",
+    "primaryColour": "rgba(241, 187, 0, 1)",
+    "competition": "8"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "880",
+    "HOME": "627",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "645",
+    "AUTHORS": "746"
+  },
+  "SiteAdmin": {
+    "id": "6342",
+    "name": "men Administrator",
+    "user": "men_admin"
+  },
+  "AuthorWithImage": {
+    "id": "136612",
+    "name": "Lucy Lovell",
+    "user": "lucy-lovell",
+    "profileID": "12815308"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.manchestereveningnews.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.manchestereveningnews.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.manchestereveningnews.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.manchestereveningnews.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.manchestereveningnews.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.manchestereveningnews.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.manchestereveningnews.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.manchestereveningnews.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-si.manchestereveningnews.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.manchestereveningnews.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.manchestereveningnews.co.uk:8080/"
+    }
+  }
+}

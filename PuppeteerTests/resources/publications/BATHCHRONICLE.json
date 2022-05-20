@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "bath chronicle",
+    "tag": "Bath Chronicle",
+    "siteName": "bathchronicle",
+    "skimlinksID": "",
+    "id": "4",
+    "selfParentTag": "classification/tag:bathchronicle@trinitymirror.com,2016",
+    "primaryColour": "rgba(34, 68, 153, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "624",
+    "HOME": "7",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "144",
+    "AUTHORS": "279",
+    "SEARCH": "417"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.bathchronicle.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.bathchronicle.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.bathchronicle.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.bathchronicle.co.uk/",
+      "CMS": "http://ron-cms2.bathchronicle.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.bathchronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.bathchronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

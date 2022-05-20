@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "Macclesfield-Express",
+    "tag": "macclesfield-express",
+    "id": "12",
+    "primaryColour": "rgba(1, 109, 171, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "4806",
+    "HOME": "4751",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "4797",
+    "AUTHORS": "4808"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.macclesfield-live.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.macclesfield-live.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.macclesfield-live.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.macclesfield-live.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.macclesfield-live.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.macclesfield-live.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.macclesfield-live.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.macclesfield-live.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-si.macclesfield-live.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.macclesfield-live.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.macclesfield-live.co.uk:8080/"
+    }
+  }    
+}

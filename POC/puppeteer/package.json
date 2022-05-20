@@ -1,0 +1,19 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {
+    "mocha": "^5.2.0",
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {
+    "mocha-puppeteer": "^0.13.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

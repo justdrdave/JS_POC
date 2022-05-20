@@ -1,0 +1,61 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "gazettelive",
+    "tag": "Parmo",
+    "id": "18",
+    "selfParentTag": "",
+    "skimlinksID": "",    
+    "primaryColour": "rgba(28, 61, 112, 1)",
+    "competition": "8"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "7241",
+    "HOME": "6854",
+    "COMMUNITYTEST": "7249",
+    "SPORTFOOTBALL": "7207",
+    "AUTHORS": "7243"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.gazettelive.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.gazettelive.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.gazettelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.gazettelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.gazettelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.gazettelive.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.gazettelive.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.gazettelive.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-si.gazettelive.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.gazettelive.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.gazettelive.co.uk:8080/"
+    }
+  }
+}

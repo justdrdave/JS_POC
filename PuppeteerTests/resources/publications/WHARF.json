@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "wharf",
+    "tag": "The Wharf",
+    "id": "43",
+    "primaryColour": "rgba(0, 87, 97, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "31157",
+    "HOME": "31135",
+    "COMMUNITYTEST": "31162",
+    "SPORTFOOTBALL": "N/A",
+    "AUTHORS": "31158"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "http://reg-dev-pres-stable.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.wharf.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "http://reg-dev-pres-stable.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.wharf.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "http://www.wharf.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "http://www.wharf.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "http://www.wharf.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.wharf.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.wharf.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.wharf.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-si.wharf.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.wharf.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.wharf.co.uk:8080/"
+    }
+  }
+}

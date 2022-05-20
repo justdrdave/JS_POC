@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "nottingham post",
+    "tag": "Nottingham Post",
+    "siteName": "nottinghampost",
+    "skimlinksID": "",
+    "id": "11",
+    "selfParentTag": "classification/tag:nottinghampost@trinitymirror.com,2016",
+    "primaryColour": "rgba(20, 92, 0, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "386",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "809",
+    "AUTHORS": "826",
+    "SEARCH": "837"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.nottinghampost.com/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.nottinghampost.com/",
+      "CMS": "http://ron-dev-cms-stable.nottinghampost.com:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.nottinghampost.com/",
+      "CMS": "http://ron-cms2.nottinghampost.com:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.nottinghampost.com/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.nottinghampost.com/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

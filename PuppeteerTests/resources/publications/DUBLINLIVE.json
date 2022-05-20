@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "dublinlive",
+    "tag": "Politics",
+    "id": "46",
+    "primaryColour": "rgba(16, 24, 69, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "38310",
+    "HOME": "37359",
+    "COMMUNITYTEST": "38315",
+    "SPORTFOOTBALL": "39406",
+    "AUTHORS": "38311"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-bertha.dublinlive.ie/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-stable.dublinlive.ie:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.dublinlive.ie/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.dublinlive.ie/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.dublinlive.ie/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-vulcan.dublinlive.ie:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-shine.dublinlive.ie:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-zion.dublinlive.ie:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-si.dublinlive.ie:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.dublinlive.ie/",
+      "CMS": "http://reg-dev-cms-crispin.dublinlive.ie:8080/"
+    }
+  }
+}

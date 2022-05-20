@@ -1,0 +1,59 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "ChesterChronicle",
+    "tag": "chesterchronicle",
+    "id": "30",
+    "primaryColour": "rgba(0, 67, 141, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "11204",
+    "HOME": "11152",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "11176",
+    "AUTHORS": "11207",
+    "SEARCH": "11234"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.chesterchronicle.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.chesterchronicle.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.chesterchronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.chesterchronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.chesterchronicle.co.uk/",
+      "CMS": "http://reg-cms1a.chesterchronicle.co.uk:8080/"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.chesterchronicle.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.chesterchronicle.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.chesterchronicle.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-si.chesterchronicle.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.chesterchronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.chesterchronicle.co.uk:8080/"
+    }
+  }
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "description": "  Customers are presented with GDPR options on first visit to a site",
+    "keyword": "Feature",
+    "name": "",
+    "line": 1,
+    "id": "",
+    "tags": [],
+    "uri": "features/gdpr.feature",
+    "elements": [
+      {
+        "id": ";new-customer-is-presented-with-the-gdpr-policy",
+        "keyword": "Scenario",
+        "line": 5,
+        "name": "New customer is presented with the GDPR policy",
+        "tags": [
+          {
+            "name": "@construction",
+            "line": 4
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "features/step_definitions/common.js:12"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 292000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 6,
+            "name": "a customer is using a web browser which has never visited one of our sites before",
+            "match": {
+              "location": "features/step_definitions/common.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 28854000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "the customer visits a site for the first time",
+            "match": {
+              "location": "features/step_definitions/common.js:26"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 30003000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "the cookie notice is displayed",
+            "match": {
+              "location": "features/step_definitions/gdpr.js:9"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 5000000,
+              "error_message": "TypeError: Cannot read property 'outerHTML' of null\n    at fn (<anonymous>:5:158)\n    at javascript (<anonymous>:19:21)\n    at <anonymous>:34:3\n    at EventEmitter.electron.ipcRenderer.on (/Users/davidlosinski/Documents/Development/NightmareTests/node_modules/electron/dist/Electron.app/Contents/Resources/electron.asar/renderer/init.js:63:28)\n    at emitMany (events.js:146:13)\n    at EventEmitter.emit (events.js:223:7)"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features/step_definitions/common.js:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 362000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Customers are presented with GDPR options on first visit to a site",
+    "line": 1,
+    "id": "customers-are-presented-with-gdpr-options-on-first-visit-to-a-site",
+    "tags": [],
+    "uri": "features/gdpr.feature",
+    "elements": [
+      {
+        "id": "customers-are-presented-with-gdpr-options-on-first-visit-to-a-site;new-customer-is-presented-with-the-gdpr-policy",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "New customer is presented with the GDPR policy",
+        "tags": [
+          {
+            "name": "@construction",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "features/support/hooks.js:48"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 31122000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "a customer is using a web browser which has never visited one of our sites before",
+            "match": {
+              "location": "features/step_definitions/common.js:6"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 4462000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "the customer visits a site for the first time",
+            "match": {
+              "location": "features/step_definitions/common.js:10"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3977000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "the cookie notice is displayed",
+            "match": {
+              "location": "features/step_definitions/gdpr.js:6"
+            },
+            "result": {
+              "status": "failed",
+              "duration": 52694000000,
+              "error_message": "Error: { type: 'actionElementNotFoundError',\n  isTestCafeError: true,\n  callsite: \n   CallsiteRecord {\n     filename: '/Users/davidlosinski/Documents/Development/TestCafeTests/features/step_definitions/gdpr.js',\n     lineNum: 7,\n     callsiteFrameIdx: 6,\n     stackFrames: \n      [ [Object],\n        [Object],\n        [Object],\n        [Object],\n        [Object],\n        [Object],\n        [Object] ],\n     isV8Frames: true } }\n    at Function.<anonymous> (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/cucumber/src/user_code_runner.js:74:17)\n    at Generator.throw (<anonymous>)\n    at Generator.tryCatcher (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/util.js:16:23)\n    at PromiseSpawn._promiseRejected (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/generators.js:107:10)\n    at Promise._settlePromise (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/promise.js:576:26)\n    at Promise._settlePromise0 (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/promise.js:614:10)\n    at Promise._settlePromises (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/promise.js:689:18)\n    at Async._drainQueue (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/async.js:133:16)\n    at Async._drainQueues (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/async.js:143:10)\n    at Immediate.Async.drainQueues (/Users/davidlosinski/Documents/Development/TestCafeTests/node_modules/bluebird/js/release/async.js:17:14)\n    at runCallback (timers.js:810:20)\n    at tryOnImmediate (timers.js:768:5)\n    at processImmediate [as _immediateCallback] (timers.js:745:5)"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features/support/hooks.js:62"
+            },
+            "result": {
+              "status": "passed"
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features/support/hooks.js:57"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

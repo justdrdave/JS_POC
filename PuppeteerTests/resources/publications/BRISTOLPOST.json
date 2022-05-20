@@ -1,0 +1,73 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "bristol post",
+    "tag": "Bristol Post",
+    "siteName": "bristolpost",
+    "skimlinksID": "",
+    "id": "2",
+    "selfParentTag": "classification/tag:bristolpost@trinitymirror.com,2016",
+    "primaryColour": "rgba(17, 74, 159, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "212",
+    "HOME": "3",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "65",
+    "AUTHORS": "228",
+    "SEARCH": "414"
+  },
+  "SiteAdmin": {
+    "id": "",
+    "name": "",
+    "user": ""
+  },
+  "AuthorWithImage": {
+     "id": "163",
+     "name": "Andrew Penman",
+     "user": "andrew-penman",
+     "profileID": "159234"
+  },
+  "LINKS": {
+    "BERTHA": {
+    "PRES": "https://ron-dev-pres-bertha.bristolpost.co.uk/",
+    "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.bristolpost.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.bristolpost.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.bristolpost.co.uk/",
+      "CMS": "http://ron-cms2.bristolpost.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.bristolpost.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.bristolpost.co.uk/",
+      "CMS": "http://ron-cms2.bristolpost.co.uk:8080/"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

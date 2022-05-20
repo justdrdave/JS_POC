@@ -1,0 +1,61 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "getwestlondon",
+    "tag": "Get West London",
+    "id": "37",
+    "selfParentTag": "",
+    "skimlinksID": "",
+    "primaryColour": "rgba(0, 88, 162, 1)",
+    "competition": "8"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "15862",
+    "HOME": "15809",
+    "COMMUNITYTEST": "15870",
+    "SPORTFOOTBALL": "15832",
+    "AUTHORS": "15864"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.getwestlondon.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.getwestlondon.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.getwestlondon.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.getwestlondon.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.getwestlondon.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.getwestlondon.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.getwestlondon.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.getwestlondon.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-si.getwestlondon.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.getwestlondon.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.getwestlondon.co.uk:8080/"
+    }
+  }    
+}

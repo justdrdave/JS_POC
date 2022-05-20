@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "grimsby telegraph",
+    "tag": "Grimsby Telegraph",
+    "siteName": "grimsbytelegraph",
+    "skimlinksID": "",
+    "id": "7",
+    "selfParentTag": "classification/tag:grimsbytelegraph@trinitymirror.com,2016",
+    "primaryColour": "rgba(57, 86, 145, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "378",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "493",
+    "AUTHORS": "510",
+    "SEARCH": "521"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.grimsbytelegraph.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.grimsbytelegraph.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.grimsbytelegraph.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.grimsbytelegraph.co.uk/",
+      "CMS": "http://ron-cms2.grimsbytelegraph.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.grimsbytelegraph.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.grimsbytelegraph.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

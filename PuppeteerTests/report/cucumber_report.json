@@ -1,0 +1,88 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Customers are presented with GDPR options on first visit to a site",
+    "line": 1,
+    "id": "customers-are-presented-with-gdpr-options-on-first-visit-to-a-site",
+    "tags": [],
+    "uri": "features/gdpr.feature",
+    "elements": [
+      {
+        "id": "customers-are-presented-with-gdpr-options-on-first-visit-to-a-site;new-customer-is-presented-with-the-gdpr-policy",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "New customer is presented with the GDPR policy",
+        "tags": [
+          {
+            "name": "@construction",
+            "line": 3
+          }
+        ],
+        "type": "scenario",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "match": {
+              "location": "features/step_definitions/common.js:11"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 729000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "a customer is using a web browser which has never visited one of our sites before",
+            "match": {
+              "location": "features/step_definitions/common.js:24"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1278000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "the customer visits a site for the first time",
+            "match": {
+              "location": "features/step_definitions/common.js:29"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 10694000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "the cookie notice is displayed",
+            "match": {
+              "location": "features/step_definitions/gdpr.js:8"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 55000000
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "match": {
+              "location": "features/step_definitions/common.js:20"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 152000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

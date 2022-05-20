@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "nationals",
+    "publicationName": "RSVP",
+    "tag": "RSVP",
+    "siteName": "RSVP",
+    "skimlinksID": "1526515",
+    "id": "11",
+    "selfParentTag": "classification/tag:rsvp@trinitymirror.com,2017",
+    "primaryColour": "rgba(133, 133, 141, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "24810",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "N/A",
+    "AUTHORS": "24837",
+    "SEARCH": "24848"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "http://nat-dev-pres-bertha.rsvplive.ie/",
+      "CMS": "http://nat-dev-cms-bertha.rsvplive.ie:8080/"
+    },
+    "STABLE": {
+      "PRES": "http://nat-dev-pres-stable.rsvplive.ie/",
+      "CMS": "http://nat-dev-cms-stable.rsvplive.ie:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.rsvplive.ie/",
+      "CMS": "http://cms2a.rsvplive.ie:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.rsvplive.ie/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.rsvplive.ie/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

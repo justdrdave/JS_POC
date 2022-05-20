@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "AccringtonObserver",
+    "tag": "accringtonobserver",
+    "id": "3",
+    "primaryColour": "rgba(188, 0, 45, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "1746",
+    "HOME": "1552",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "1570",
+    "AUTHORS": "1647"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.accringtonobserver.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.accringtonobserver.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.accringtonobserver.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.accringtonobserver.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.accringtonobserver.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.accringtonobserver.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.accringtonobserver.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.accringtonobserver.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-si.accringtonobserver.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.accringtonobserver.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.accringtonobserver.co.uk:8080/"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "devon live",
+    "tag": "Devon Live",
+    "siteName": "devonlive",
+    "skimlinksID": "",
+    "id": "14",
+    "selfParentTag": "classification/tag:devonlive@trinitymirror.com,2016",
+    "primaryColour": "rgba(217, 0, 0, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "392",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "1108",
+    "AUTHORS": "1128",
+    "SEARCH": "1139"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.devonlive.com/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.devonlive.com/",
+      "CMS": "http://ron-dev-cms-stable.devonlive.com:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.devonlive.com/",
+      "CMS": "http://ron-cms2.devonlive.com:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.devonlive.com/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.devonlive.com/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

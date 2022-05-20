@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "lincolnshire live",
+    "tag": "Lincolnshire Live",
+    "siteName": "lincolnshirelive",
+    "skimlinksID": "",
+    "id": "9",
+    "selfParentTag": "classification/tag:lincolnshirelive@trinitymirror.com,2016",
+    "primaryColour": "rgba(66, 122, 156, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "382",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "587",
+    "AUTHORS": "604",
+    "SEARCH": "615"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.lincolnshirelive.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.lincolnshirelive.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.lincolnshirelive.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.lincolnshirelive.co.uk/",
+      "CMS": "http://ron-cms2.lincolnshirelive.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.lincolnshirelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.lincolnshirelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

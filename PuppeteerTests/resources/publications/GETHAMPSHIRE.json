@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "get hampshire",
+    "tag": "gethampshire",
+    "id": "29",
+    "primaryColour": "rgba(233, 16, 59, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "10826",
+    "HOME": "10789",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "10814",
+    "AUTHORS": "10828"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "http://reg-dev-pres-bertha.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.gethampshire.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "http://reg-dev-pres-stable.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.gethampshire.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "http://www.gethampshire.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "http://www.gethampshire.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "http://www.gethampshire.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.gethampshire.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.gethampshire.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.gethampshire.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-si.gethampshire.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.gethampshire.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.gethampshire.co.uk:8080/"
+    }
+  }
+}

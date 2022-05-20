@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "essex live",
+    "tag": "Essex Live",
+    "siteName": "essexlive",
+    "skimlinksID": "",
+    "id": "18",
+    "selfParentTag": "classification/tag:essexlive@trinitymirror.com,2016",
+    "primaryColour": "rgba(217, 0, 0, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "400",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "1403",
+    "AUTHORS": "1423",
+    "SEARCH": "1434"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.essexlive.news/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.essexlive.news/",
+      "CMS": "http://ron-dev-cms-stable.essexlive.news:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.essexlive.news/",
+      "CMS": "http://ron-cms2.essexlive.news:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.essexlive.news/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.essexlive.news/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

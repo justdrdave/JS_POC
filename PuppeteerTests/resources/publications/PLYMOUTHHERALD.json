@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "plymouth herald",
+    "tag": "Plymouth Herald",
+    "siteName": "plymouthherald",
+    "skimlinksID": "",
+    "id": "15",
+    "selfParentTag": "classification/tag:plymouthherald@trinitymirror.com,2016",
+    "primaryColour": "rgba(216, 2, 30, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "394",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "1158",
+    "AUTHORS": "1178",
+    "SEARCH": "1189"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.plymouthherald.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.plymouthherald.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.plymouthherald.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.plymouthherald.co.uk/",
+      "CMS": "http://ron-cms2.plymouthherald.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.plymouthherald.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.plymouthherald.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

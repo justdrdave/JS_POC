@@ -1,0 +1,67 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "BurtonMail",
+    "tag": "burtonmail",
+    "siteName": "burtonmail",
+    "skimlinksID": "",
+    "id": "13",
+    "selfParentTag": "classification/tag:burtonmail@trinitymirror.com,2016",
+    "primaryColour": "rgba(17, 74, 159, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "390",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "903",
+    "AUTHORS": "919",
+    "SEARCH": "930"
+  },
+  "SiteAdmin": {
+    "id": "",
+    "name": "",
+    "user": ""
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.burtonmail.co.uk/",
+      "CMS": "http://ron-dev-pres-bertha.burtonmail.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.burtonmail.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.burtonmail.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.burtonmail.co.uk/",
+      "CMS": "http://ron-cms2.burtonmail.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.burtonmail.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.burtonmail.co.uk/",
+      "CMS": "http://ron-cms2.burtonmail.co.uk:8080/"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

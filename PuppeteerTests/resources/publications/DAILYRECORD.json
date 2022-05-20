@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "nationals",
+    "publicationName": "dailyrecord",
+    "tag": "Politics",
+    "id": "4",
+    "selfParentTag": "",
+    "skimlinksID": "",
+    "primaryColour": "rgba(237, 0, 45, 1)",
+    "competition": "14"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "4433",
+    "HOME": "3151",
+    "COMMUNITYTEST": "3303",
+    "SPORTFOOTBALL": "3199",
+    "AUTHORS": "3308",
+    "SEARCH": "3156"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://nat-dev-pres-bertha.dailyrecord.co.uk/",
+      "CMS": "http://nat-dev-cms-bertha.dailyrecord.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://nat-dev-pres-stable.dailyrecord.co.uk/",
+      "CMS": "http://nat-dev-cms-stable.dailyrecord.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.dailyrecord.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.dailyrecord.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.dailyrecord.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.dailyrecord.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.dailyrecord.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.dailyrecord.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.dailyrecord.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.dailyrecord.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.dailyrecord.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.dailyrecord.co.uk/",
+      "CMS": "http://reg-dev-cms-si.dailyrecord.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.dailyrecord.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.dailyrecord.co.uk:8080/"
+    }
+  }
+}

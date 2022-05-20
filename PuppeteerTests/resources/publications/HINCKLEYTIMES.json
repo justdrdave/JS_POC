@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "hinckleytimes",
+    "tag": "hinckleytimes",
+    "id": "39",
+    "primaryColour": "rgba(204, 0, 0, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "18124",
+    "HOME": "18026",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "18090",
+    "AUTHORS": "18126"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-bertha.hinckleytimes.net:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-stable.hinckleytimes.net:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.hinckleytimes.net/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.hinckleytimes.net/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.hinckleytimes.net/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-vulcan.hinckleytimes.net:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-shine.hinckleytimes.net:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-zion.hinckleytimes.net:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-si.hinckleytimes.net:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.hinckleytimes.net/",
+      "CMS": "http://reg-dev-cms-crispin.hinckleytimes.net:8080/"
+    }
+  }    
+}

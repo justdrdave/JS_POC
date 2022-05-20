@@ -1,0 +1,66 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "getreading",
+    "tag": "Get Reading",
+    "id": "19",
+    "selfParentTag": "",
+    "skimlinksID": "",
+    "primaryColour": "rgba(15, 114, 188, 1)",
+    "competition": "10"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "8202",
+    "HOME": "8144",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "8191",
+    "AUTHORS": "8204"
+  },
+  "SiteAdmin": {
+    "id": "67522",
+    "name": "getreading Administrator",
+    "user": "getreading_admin"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.getreading.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.getreading.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.getreading.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.getreading.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.getreading.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.getreading.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.getreading.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.getreading.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-si.getreading.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.getreading.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.getreading.co.uk:8080/"
+    }
+  }
+}

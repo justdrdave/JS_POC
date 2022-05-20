@@ -1,0 +1,26 @@
+{
+  "name": "TestCafeTests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "cucumber": "^4.2.1",
+    "cucumber-html-reporter": "^4.0.2",
+    "eslint": "^4.19.1",
+    "npm": "^6.0.0",
+    "testcafe": "^0.20.4"
+  },
+  "scripts": {
+    "test": "cucumber-js features/ -f json:report/cucumber_report.json --world-parameters \"{\\\"browser\\\": \\\"chromium:headless\\\"}\"; node html_report.js",
+    "test-view": "cucumber-js features/ -f json:report/cucumber_report.json --world-parameters \"{\\\"browser\\\": \\\"chromium\\\"}\"; node html_report.js",
+    "construction": "cucumber-js features/ -f json:report/cucumber_report.json --tags @construction --world-parameters \"{\\\"browser\\\": \\\"chromium:headless\\\"}\"; node html_report.js",
+    "construction-view": "cucumber-js features/ -f json:report/cucumber_report.json --tags @construction --world-parameters \"{\\\"browser\\\": \\\"chromium\\\"}\"; node html_report.js"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

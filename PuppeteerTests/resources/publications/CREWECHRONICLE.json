@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "CreweChronicle",
+    "tag": "crewechronicle",
+    "id": "34",
+    "primaryColour": "rgba(0, 67, 141, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "14101",
+    "HOME": "14046",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "14067",
+    "AUTHORS": "14103"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.crewechronicle.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.crewechronicle.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.crewechronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.crewechronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.crewechronicle.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.crewechronicle.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.crewechronicle.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.crewechronicle.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-si.crewechronicle.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.crewechronicle.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.crewechronicle.co.uk:8080/"
+    }
+  }  
+}

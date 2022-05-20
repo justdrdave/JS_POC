@@ -1,0 +1,19 @@
+{
+  "name": "Nightwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+  "test-e2e": "nightwatch"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

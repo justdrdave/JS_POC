@@ -1,0 +1,67 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "liverpoolecho",
+    "tag": "Liverpool Echo",
+    "selfParentTag": "classification/tag:liverpoolecho@trinitymirror.com,2013",
+    "id": "16",
+    "skimlinksID": "",
+    "primaryColour": "rgba(213, 28, 36, 1)",
+    "competition": "8"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "6334",
+    "HOME": "6273",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "6300",
+    "AUTHORS": "6336",
+    "SEARCH": "6362"
+  },
+  "SiteAdmin": {
+    "id": "16",
+    "name": "liverpoolecho Administrator",
+    "user": "liverpoolecho_admin"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.liverpoolecho.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.liverpoolecho.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.liverpoolecho.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.liverpoolecho.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.liverpoolecho.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.liverpoolecho.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.liverpoolecho.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.liverpoolecho.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-si.liverpoolecho.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.liverpoolecho.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.liverpoolecho.co.uk:8080/"
+    }
+  }    
+}

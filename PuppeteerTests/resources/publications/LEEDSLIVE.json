@@ -1,0 +1,61 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "leeds-live",
+    "tag": "Leeds Live",
+    "selfParentTag": "classification/tag:leedslive@trinitymirror.com,2017",
+    "id": "51",
+    "skimlinksID": "",
+    "primaryColour": "rgba(6, 114, 186, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "42238",
+    "HOME": "42125",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "N/A",
+    "AUTHORS": "42151",
+    "SEARCH": "42162"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.leeds-live.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.leeds-live.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.leeds-live.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.leeds-live.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.leeds-live.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.leeds-live.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.leeds-live.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.leeds-live.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-si.leeds-live.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.leeds-live.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.leeds-live.co.uk:8080/"
+    }
+  }
+}

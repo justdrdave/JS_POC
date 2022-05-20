@@ -1,0 +1,74 @@
+{
+  "PublicationProperties": {
+    "type": "nationals",
+    "publicationName": "mirror",
+    "tag": "Mirror Online",
+    "siteName": "mirror",
+    "skimlinksID": "1526515",
+    "id": "2",
+    "selfParentTag": "classification/tag:dmdev@mgn.co.uk,2011",
+    "primaryColour": "rgba(233, 14, 14, 1)",
+    "competition": "8"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "1931",
+    "HOME": "69",
+    "COMMUNITYTEST": "20860",
+    "SPORTFOOTBALL": "603",
+    "AUTHORS": "598",
+    "SEARCH": "219"
+  },
+  "SiteAdmin": {
+    "id": "16",
+    "name": "mirror Administrator",
+    "user": "mirror_admin"
+  },
+  "AuthorWithImage": {
+     "id": "163",
+     "name": "Andrew Penman",
+     "user": "andrew-penman",
+     "profileID": "159234"
+  },
+  "LINKS": {
+    "BERTHA": {
+    "PRES": "https://nat-dev-pres-bertha.mirror.co.uk/",
+    "CMS": "http://nat-dev-cms-bertha.mirror.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://nat-dev-pres-stable.mirror.co.uk/",
+      "CMS": "http://nat-dev-cms-stable.mirror.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.mirror.co.uk/",
+      "CMS": "http://cms2a.mirror.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.mirror.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.mirror.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://nat-dev-pres-vulcan.mirror.co.uk/",
+      "CMS": "http://nat-dev-cms-vulcan.mirror.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://nat-dev-pres-shine.mirror.co.uk/",
+      "CMS": "http://nat-dev-cms-shine.mirror.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://nat-dev-pres-zion.mirror.co.uk/",
+      "CMS": "http://nat-dev-cms-zion.mirror.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://nat-dev-pres-si.mirror.co.uk/",
+      "CMS": "http://nat-dev-cms-si.mirror.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://nat-dev-pres-crispin.mirror.co.uk/",
+      "CMS": "http://nat-dev-cms-crispin.mirror.co.uk:8080/"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "birminghammail",
+    "tag": "Aston Villa Next Manager",
+    "id": "1",
+    "selfParentTag": "",
+    "skimlinksID": "",
+    "primaryColour": "rgba(186, 17, 39, 1)",
+    "competition": "10"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "596",
+    "HOME": "1",
+    "COMMUNITYTEST": "6923",
+    "SPORTFOOTBALL": "19",
+    "AUTHORS": "129"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.birminghammail.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.birminghammail.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.birminghammail.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.birminghammail.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.birminghammail.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.birminghammail.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.birminghammail.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.birminghammail.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-si.birminghammail.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.birminghammail.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.birminghammail.co.uk:8080/"
+    }
+  }
+}

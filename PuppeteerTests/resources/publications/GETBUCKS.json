@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "Getbucks",
+    "tag": "getbucks",
+    "id": "35",
+    "primaryColour": "rgba(115, 169, 185, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "14642",
+    "HOME": "14589",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "14612",
+    "AUTHORS": "14644"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "http://reg-dev-pres-bertha.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.getbucks.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "http://reg-dev-pres-stable.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.getbucks.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "http://www.getbucks.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "http://www.getbucks.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "http://www.getbucks.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.getbucks.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.getbucks.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.getbucks.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-si.getbucks.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.getbucks.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.getbucks.co.uk:8080/"
+    }
+  }
+}

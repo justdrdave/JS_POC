@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "gloucestershire live",
+    "tag": "Gloucestershire Live",
+    "siteName": "gloucestershirelive",
+    "skimlinksID": "",
+    "id": "1",
+    "selfParentTag": "classification/tag:gloucestershirelive@trinitymirror.com,2016",
+    "primaryColour": "rgba(217, 0, 0, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "623",
+    "HOME": "1",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "184",
+    "AUTHORS": "277",
+    "SEARCH": "415"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.gloucestershirelive.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.gloucestershirelive.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.gloucestershirelive.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.gloucestershirelive.co.uk/",
+      "CMS": "http://ron-cms2.gloucestershirelive.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.gloucestershirelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.gloucestershirelive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

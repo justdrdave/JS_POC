@@ -1,0 +1,58 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "dailypost",
+    "tag": "Politics",
+    "id": "31",
+    "primaryColour": "rgba(43, 40, 115, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "5068",
+    "HOME": "4777",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "5034",
+    "AUTHORS": "5070"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-bertha.dailypost.co.uk:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-stable.dailypost.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.dailypost.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.dailypost.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.dailypost.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-vulcan.dailypost.co.uk:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-shine.dailypost.co.uk:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-zion.dailypost.co.uk:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-si.dailypost.co.uk:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.dailypost.co.uk/",
+      "CMS": "http://reg-dev-cms-crispin.dailypost.co.uk:8080/"
+    }
+  }
+}

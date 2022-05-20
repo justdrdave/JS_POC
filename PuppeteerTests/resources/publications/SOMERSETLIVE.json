@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "somerset live",
+    "tag": "Somerset Live",
+    "siteName": "somersetlive",
+    "skimlinksID": "",
+    "id": "3",
+    "selfParentTag": "classification/tag:somersetlive@trinitymirror.com,2016",
+    "primaryColour": "rgba(217, 0, 0, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "418",
+    "HOME": "5",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "104",
+    "AUTHORS": "278",
+    "SEARCH": "416"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.somersetlive.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.somersetlive.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.somersetlive.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.somersetlive.co.uk/",
+      "CMS": "http://ron-cms2.somersetlive.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.somersetlive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.somersetlive.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

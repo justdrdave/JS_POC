@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "scunthorpe telegraph",
+    "tag": "Scunthorpe Telegraph",
+    "siteName": "scunthorpetelegraph",
+    "skimlinksID": "",
+    "id": "8",
+    "selfParentTag": "classification/tag:scunthorpetelegraph@trinitymirror.com,2016",
+    "primaryColour": "rgba(0, 68, 124, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "380",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "540",
+    "AUTHORS": "557",
+    "SEARCH": "568"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.scunthorpetelegraph.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.scunthorpetelegraph.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.scunthorpetelegraph.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.scunthorpetelegraph.co.uk/",
+      "CMS": "http://ron-cms2.scunthorpetelegraph.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.scunthorpetelegraph.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.scunthorpetelegraph.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

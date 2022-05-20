@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "ronionals",
+    "publicationName": "leicester mercury",
+    "tag": "Leicester Mercury",
+    "siteName": "leicestermercury",
+    "skimlinksID": "",
+    "id": "10",
+    "selfParentTag": "classification/tag:leicestermercury@trinitymirror.com,2016",
+    "primaryColour": "rgba(0, 94, 173, 1)"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "384",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "759",
+    "AUTHORS": "779",
+    "SEARCH": "790"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://ron-dev-pres-bertha.leicestermercury.co.uk/",
+      "CMS": ""
+    },
+    "STABLE": {
+      "PRES": "https://ron-dev-pres-stable.leicestermercury.co.uk/",
+      "CMS": "http://ron-dev-cms-stable.leicestermercury.co.uk:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.leicestermercury.co.uk/",
+      "CMS": "http://ron-cms2.leicestermercury.co.uk:8080/"
+    },
+    "CMS4": {
+      "PRES": "https://www.leicestermercury.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.leicestermercury.co.uk/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}

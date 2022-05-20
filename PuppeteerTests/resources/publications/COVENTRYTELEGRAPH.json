@@ -1,0 +1,61 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "coventrytelegraph",
+    "tag": "Crime",
+    "id": "15",
+    "selfParentTag": "",
+    "skimlinksID": "",
+    "primaryColour": "rgba(0, 111, 181, 1)",
+    "competition": "12"
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "5888",
+    "HOME": "5583",
+    "COMMUNITYTEST": "5896",
+    "SPORTFOOTBALL": "5854",
+    "AUTHORS": "5890"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-bertha.coventrytelegraph.net:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-stable.coventrytelegraph.net:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.coventrytelegraph.net/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.coventrytelegraph.net/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.coventrytelegraph.net/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "http://reg-dev-pres-vulcan.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-vulcan.coventrytelegraph.net:8080/"
+    },
+    "SHINE": {
+      "PRES": "http://reg-dev-pres-shine.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-shine.coventrytelegraph.net:8080/"
+    },
+    "ZION": {
+      "PRES": "http://reg-dev-pres-zion.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-zion.coventrytelegraph.net:8080/"
+    },
+    "SI": {
+      "PRES": "http://reg-dev-pres-si.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-si.coventrytelegraph.net:8080/"
+    },
+    "CRISPIN": {
+      "PRES": "http://reg-dev-pres-crispin.coventrytelegraph.net/",
+      "CMS": "http://reg-dev-cms-crispin.coventrytelegraph.net:8080/"
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "PublicationProperties": {
+    "type": "regionals",
+    "publicationName": "footballlondon",
+    "tag": "footballlondon",
+    "id": "50",
+    "selfParentTag": "classification/tag:footballlondon@trinitymirror.com,2016",
+    "primaryColour": "rgba(0, 157, 103, 1)",
+    "skimlinksID": "",
+    "competition": ""
+  },
+  "EscenicSection": {
+    "COMMPARTTEST": "N/A",
+    "HOME": "40958",
+    "COMMUNITYTEST": "N/A",
+    "SPORTFOOTBALL": "N/A",
+    "AUTHORS": "N/A",
+    "SEARCH": "41599"
+  },
+  "LINKS": {
+    "BERTHA": {
+      "PRES": "https://reg-dev-pres-bertha.football.london/",
+      "CMS": "http://reg-dev-cms-bertha.football.london:8080/"
+    },
+    "STABLE": {
+      "PRES": "https://reg-dev-pres-stable.football.london/",
+      "CMS": "http://reg-dev-cms-stable.football.london:8080/"
+    },
+    "CMS2": {
+      "PRES": "https://www.football.london/",
+      "CMS": "Forbidden"
+    },
+    "CMS4": {
+      "PRES": "https://www.football.london/",
+      "CMS": "Forbidden"
+    },
+    "LIVE": {
+      "PRES": "https://www.football.london/",
+      "CMS": "Forbidden"
+    },
+    "VULCAN": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SHINE": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "ZION": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "SI": {
+      "PRES": "",
+      "CMS": ""
+    },
+    "CRISPIN": {
+      "PRES": "",
+      "CMS": ""
+    }
+  }
+}
